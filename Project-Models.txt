@@ -1,0 +1,52 @@
+models that i used in this project 
+
+1- user model 
+-username
+-useremail
+-userpassword
+-userimage
+-userphone
+-isAdmin
+
+2-food item model
+-foodname
+-description
+-price
+-image
+-category
+-chefId
+
+3-chef model
+-chefname 
+-chefimage
+-chefbio
+-chefspecialty 
+
+4-orders model
+-userId
+-fooditems
+-totalamount 
+-status
+-timestamp
+
+5-reservation model
+-userId
+-clientname
+-no of person
+-date 
+-phone
+-email 
+-status
+
+6-payment model 
+-userId
+-orderId
+-amount 
+-paymentstatus
+-paymentmethod
+
+7-contact model
+-userId
+-name
+-email
+-message 

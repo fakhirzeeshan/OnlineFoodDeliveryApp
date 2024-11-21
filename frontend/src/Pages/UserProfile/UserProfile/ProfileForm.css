@@ -1,0 +1,66 @@
+.profile-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-container h2 {
+    text-align: center;
+    color: #333;
+}
+
+.profile-image-upload {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-preview {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.profile-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.profile-form label {
+    font-weight: bold;
+}
+
+.profile-form input[type="text"],
+.profile-form input[type="email"],
+.profile-form input[type="tel"],
+.profile-form input[type="password"] {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.profile-form button {
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.profile-form button:hover {
+    background: #0056b3;
+}
+
+
+
+.profile-image-upload .profile-image-upload-button{
+    margin-left: 30px;
+}
+
