@@ -43,6 +43,10 @@ Create a file named `.env` and add the following:
 MONGODB_URI=your-mongodb-atlas-connection-uri
 PORT=5000
 
+---
+
+## 📫 Contact
+
 Fakhir Zeeshan
 📍 Bronx, NY
 📧 fakhirzeeshan02@gmail.com
@@ -53,10 +57,13 @@ Fakhir Zeeshan
 ## 📸 Screenshots
 
 ### 🏠 Home Page (User View)
-![Home Page]()
+![Home Page](./Screenshot/homepage.png)
 
-### 📦 Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+### 📦 Menu Section
+![Menu Section](./Screenshots/menu.png)
+
+### 📦 Pizza's individual Section
+![Pizza's Section](./Screenshots/pizza's.png)
 
 ---
 
