@@ -42,3 +42,21 @@ Create a file named `.env` and add the following:
 ```env
 MONGODB_URI=your-mongodb-atlas-connection-uri
 PORT=5000
+
+Fakhir Zeeshan
+📍 Bronx, NY
+📧 fakhirzeeshan02@gmail.com
+🔗 LinkedIn
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page (User View)
+![Home Page]()
+
+### 📦 Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+---
+
