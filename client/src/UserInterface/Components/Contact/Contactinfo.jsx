@@ -42,8 +42,8 @@ const Contactinfo = () => {
                             <div class="content">
                                 <h3>Mail Adress</h3>
                                 <p>
-                                    Foodking@gmail.com <br/>
-                                    info@Foodking.com
+                                    Grubgo@gmail.com <br/>
+                                    info@Grubgo.com
                                 </p>
                             </div>
                         </div>
