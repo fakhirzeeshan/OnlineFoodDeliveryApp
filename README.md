@@ -47,23 +47,23 @@ PORT=5000
 
 ## 📫 Contact
 
-Fakhir Zeeshan
-📍 Bronx, NY
-📧 fakhirzeeshan02@gmail.com
-🔗 LinkedIn
+**Fakhir Zeeshan**  
+📍 Bronx, NY  
+📧 fakhirzeeshan02@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/fakhirzeeshan)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 Home Page (User View)
-![Home Page](./Screenshot/homepage.png)
+![Home Page](./screenshotss/homepage.png)
 
-### 📦 Menu Section
-![Menu Section](./Screenshots/menu.png)
+### 📋 Menu Section
+![Menu Section](./screenshotss/menu.png)
 
-### 📦 Pizza's individual Section
-![Pizza's Section](./Screenshots/pizza's.png)
+### 🍕 Pizza Section
+![Pizza Section](./screenshotss/pizza.png)
 
 ---
 
