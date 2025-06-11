@@ -36,13 +36,13 @@ A full-featured **MERN stack** food ordering platform with user and admin interf
 ## 📸 Screenshots
 
 ### 🏠 Home Page (User View)
-![Home Page](./screenshotss/homepage.png)
+![Home Page](./screenshotss/homepage.PNG)
 
 ### 📋 Menu Section
-![Menu Section](./screenshotss/menu.png)
+![Menu Section](./screenshotss/menu.PNG)
 
 ### 🍕 Pizza Section
-![Pizza Section](./screenshotss/pizza.png)
+![Pizza Section](./screenshotss/pizza.PNG)
 
 ---
 
