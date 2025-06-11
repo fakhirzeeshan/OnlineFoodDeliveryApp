@@ -24,27 +24,6 @@ A full-featured **MERN stack** food ordering platform with user and admin interf
 
 ---
 
-## 🧪 Getting Started
-
-To run this project locally using MongoDB Atlas:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/fakhirzeeshan/online-food-delivery-system.git
-
-### 3. Set Up Environment Variables
-
-You’ll need to add your own `.env` file in the `/server` directory to connect the backend to MongoDB Atlas.
-
-Create a file named `.env` and add the following:
-
-```env
-MONGODB_URI=your-mongodb-atlas-connection-uri
-PORT=5000
-
----
-
 ## 📫 Contact
 
 **Fakhir Zeeshan**  
@@ -66,4 +45,23 @@ PORT=5000
 ![Pizza Section](./screenshotss/pizza.png)
 
 ---
+
+## 🧪 Getting Started
+
+To run this project locally using MongoDB Atlas:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/fakhirzeeshan/online-food-delivery-system.git
+
+### 3. Set Up Environment Variables
+
+You’ll need to add your own `.env` file in the `/server` directory to connect the backend to MongoDB Atlas.
+
+Create a file named `.env` and add the following:
+
+```env
+MONGODB_URI=your-mongodb-atlas-connection-uri
+PORT=5000
 
